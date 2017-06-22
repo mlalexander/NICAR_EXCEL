@@ -1,0 +1,15 @@
+Column_Order|Column_Description|Data_Type|Size
+col01|Exemption Number|Character|11
+col02|Taxpayer Name|Character|50
+col03|Permit Date|Character|10
+col04|Permit Expiration Date|Character|10
+col05|Master Address- Street Address|Character|50
+col06|Master Address- City|Character|20
+col07|Master Address- State Code|Character|2
+col08|Master Address- Zip Code|Numeric|5
+col09|Master Address- Zip +4|Numeric|4
+col10|AgTimber Address- Street Address|Character|50
+col11|AgTimber Address- City|Character|20
+col12|AgTimber Address- State Code|Character|2
+col13|AgTimber Address- Zip Code|Numeric|5
+col14|AgTimber Address- Zip +4|Numeric|4
